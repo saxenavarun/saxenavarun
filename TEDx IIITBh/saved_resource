@@ -1,0 +1,16 @@
+/* Enter Your Custom CSS Here */
+
+div#pagewrap {
+    padding-top: 65px !important;
+}
+
+@media screen and (max-width: 767px){
+#body .gallery-columns-3 .gallery-item {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#body .gallery img {
+    width: 50%;
+}
+}
